@@ -1,2 +1,2 @@
-# ImageWatermarking
-This project is used for copyright protection of image.
+# Image-Watermarking
+Minor Project on Visible &amp; Invisible Watermarking
